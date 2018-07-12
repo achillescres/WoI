@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Yura'sFiles/Scens/Settind.unity
     guid: f78789204553e49419499b562728790a
+  - enabled: 1
+    path: Assets/Yura'sFiles/Scens/Ideas.unity
+    guid: 9a94eb01c970ce645ac33a0f574485b2
   m_configObjects: {}
